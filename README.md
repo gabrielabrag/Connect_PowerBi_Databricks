@@ -1,6 +1,5 @@
 # Connect_PowerBi_Databricks
-How to Connect Power Bi with Databricks
-Como conectar Power Bi com o Databricks
+How to Connect Power Bi with Databricks---Como conectar Power Bi com o Databricks
 
 Conectando PowerBi com o Databricks para consumir dados de Delta Tables no seu dash. 
 
