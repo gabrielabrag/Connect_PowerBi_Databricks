@@ -13,6 +13,18 @@ Para conseguir os dados é preciso preencher o "Nome do Host do Servidor" e o "C
 
 ![2](https://github.com/gabrielabrag/Connect_PowerBi_Databricks/assets/108342265/ba6ca841-8270-4511-a25f-f36bbf6be78c)
 
+Role ate embaixo e click em "Advanced options" na aba "JDBC/ODBC"
+
+![4](https://github.com/gabrielabrag/Connect_PowerBi_Databricks/assets/108342265/46319092-39a8-4a7d-ab87-5f70be1f16c5)
+
+Pronto la você encontra o "Server Hostname" e o "HTTP Path" do cluster, basta preencher no PowerBi que estara pronto para consumir esses dados. 
+
+![5](https://github.com/gabrielabrag/Connect_PowerBi_Databricks/assets/108342265/32a3f3ca-0e79-4c0d-89a9-4ba285f29597)
+
+
+
+
+
 
 
 
